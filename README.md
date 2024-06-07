@@ -1,8 +1,7 @@
-# React + Vite
+MyWeather App** Welcome to MyWeather App! This application provides users with real-time weather information for any location around the globe. Whether you're planning a trip, checking the weather for your daily commute, or just curious about the weather in different places, MyWeather has you covered.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features Real-time Weather Data: Get up-to-date weather information, including temperature, humidity, wind speed, and more. Search by Location: Enter any city or location to view its current weather conditions. Forecast: View the weather forecast for the upcoming days to plan ahead. Customizable Units: Choose between Celsius or Fahrenheit for temperature and other units. Responsive Design: Access MyWeather on any device - desktop, tablet, or mobile. Getting Started To get started with MyWeather, follow these steps:
 
-Currently, two official plugins are available:
+Clone the Repository: git clone https://github.com/ehieduebube/Weather-App Navigate to the Project Directory: cd myweather-app Install Dependencies: npm install Start the Application: npm start Open Your Browser: Visit http://localhost:3000 to view Weather App. Usage Enter the name of a city or location in the search bar and press enter or click the search button. View the current weather conditions and forecast for the selected location. Toggle between Celsius and Fahrenheit units by clicking on the unit buttons. Explore different locations and their weather information. Technologies Used React: JavaScript library for building user interfaces. OpenWeatherMap API: Provides weather data for any location. Axios: Promise-based HTTP client for making API requests. Contributing Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Acknowledgements Inspiration from other weather apps and developers in the community. Contact Have questions or feedback? Feel free to contact me at ehieduebube@gmail.com.
